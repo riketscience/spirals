@@ -1,8 +1,8 @@
-# dependencies
+## dependencies
 node
 npm
 
-# installation
+## installation
 * create folder "spirals" somewhere
 * open terminal
  ```
